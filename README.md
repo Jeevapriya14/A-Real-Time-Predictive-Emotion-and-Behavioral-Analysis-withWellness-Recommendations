@@ -1,4 +1,7 @@
-A Real-Time Predictive Emotion and Behavioral Analysis with Wellness Recommendations
+###
+A Real-Time Predictive Emotion and Behavioral Analysis with Wellness Recommendations.
+###
+
 Project Overview:
 
 This project aims to develop a deep learning-based system for real-time emotion and behavioral analysis using Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks. The model identifies emotions such as anger, happiness, fear, and surprise through body language and facial expressions and provides wellness recommendations based on the detected emotions.
