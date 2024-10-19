@@ -45,7 +45,7 @@ Metrics – Accuracy, Categorical Cross Entropy Loss.
 Test Loss: 0.4615233540534973
 Test Accuracy: 0.7692307829856873
 
-## github repo:https://github.com/Jeevapriya14/A-Real-Time-Predictive-Emotion-and-Behavioral-Analysis-withWellness-Recommendations.git
+## Github repository:https://github.com/Jeevapriya14/A-Real-Time-Predictive-Emotion-and-Behavioral-Analysis-withWellness-Recommendations.git
 
 ## Google collab page: https://colab.research.google.com/drive/1ozkoEGtZzgDFYbT0mUx5nlBo3T5g84xW#scrollTo=hlUNSKaT5WmX
 
