@@ -34,7 +34,7 @@ Output Layer: Softmax activation for multi-class emotion prediction.
 Programming Language: Python
 Libraries: TensorFlow, Keras, OpenCV, NumPy, Matplotlib, Seaborn, Scikit-learn
 Deep Learning Models: CNN (Convolutional Neural Networks), LSTM (Long Short-Term Memory)
-Training Platform: Google Colab, GPU-enabled for faster training
+Training Platform: Google Colab, GPU-enabled for faster training.
 
 ## Performance:
 
