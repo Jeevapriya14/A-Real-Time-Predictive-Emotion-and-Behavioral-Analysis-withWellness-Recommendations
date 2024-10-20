@@ -49,4 +49,4 @@ Test Accuracy: 0.8461538553237915
 
 ## Google collab page: https://colab.research.google.com/drive/1ozkoEGtZzgDFYbT0mUx5nlBo3T5g84xW#scrollTo=hlUNSKaT5WmX
 
- 
+ ## linuxone server : http://148.100.108.81:38888/lab
