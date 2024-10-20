@@ -40,10 +40,10 @@ Training Platform: Google Colab, GPU-enabled for faster training.
 
 Metrics – Accuracy, Categorical Cross Entropy Loss.
 
-• Training accuracy: 0.7905 - loss: 0.8306 - val_accuracy: 0.7692 - val_loss: 0.4615
+val_loss: 0.2984 - val_accuracy: 0.8462
 
-Test Loss: 0.4615233540534973
-Test Accuracy: 0.7692307829856873
+Test Loss: 0.29843610525131226
+Test Accuracy: 0.8461538553237915
 
 ## Github repository:https://github.com/Jeevapriya14/A-Real-Time-Predictive-Emotion-and-Behavioral-Analysis-withWellness-Recommendations.git
 
